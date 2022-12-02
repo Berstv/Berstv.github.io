@@ -966,7 +966,7 @@ padding-bottom:0px;
  max-width: 50%;
 }
 .contact .contact-form .col-12{
-/*background-color: red;*/
+
 -ms-flex:0 0 100%;
  flex:0 0 100%;
  max-width: 100%;
@@ -981,7 +981,7 @@ padding-bottom:0px;
 	border:1px solid #d4d4e3;
 	padding: 10px 25px;
 	font-size: 16px;
-	color:#ffffff;
+	color: black;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -1064,7 +1064,6 @@ padding-bottom:0px;
      max-width: 100%;	
 	}
 }
-
 
 
 
